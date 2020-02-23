@@ -1,0 +1,3 @@
+INSERT INTO HOBBITY VALUES(1,'Frodo','Baggins');
+INSERT INTO HOBBITY VALUES(2,'Bilbo','Baggins');
+INSERT INTO HOBBITY VALUES(3,'Frodo','Gardner');
